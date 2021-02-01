@@ -1,0 +1,53 @@
+ssss|ыытв юытьфв авыт ацылт лцктазцукотазшцуктозаштцукзашгтцукзшпитцукзшптцкзушптзцшуктпзшжцуткзтокпзцо|2020-10-28 21:11:52
+***
+|dsdfdfdffdd
+fd
+f
+d
+fd
+f
+d
+f|2020-10-28 21:12:31
+***
+|<script>alert(message);</skript>|2020-10-28 21:15:01
+***
+||2020-10-28 21:15:06
+***
+||2020-10-28 21:15:07
+***
+|alert(message);|2020-10-28 21:15:10
+***
+|<script>// es6
+document.addEventListener('click', (e) => {
+alert(`Координаты: (${e.clientX},${e.clientY})`);
+});
+// es5
+document.addEventListener('click', function (e) {
+alert('Координаты: (' + e.clientX + ',' + e.clientY + ')');
+});
+</script>|2020-10-28 21:15:40
+***
+gbbgbf|<div id="welcome"></div>
+<script>
+const name = prompt('Пожалуйста, представьтесь?');
+if (name) {
+  document.querySelector('#welcome').innerHTML = `<b>${name}</b>, добро пожаловать на сайт!`;
+} else {
+  document.querySelector('#welcome').innerHTML = '<b>Гость</b>, добро пожаловать на сайт!';
+}
+</script>|2020-10-28 21:16:10
+***
+gboklwlmdklme|gbpltw|2020-10-28 21:19:09
+***
+язмеина|зззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззззз|2020-10-28 21:19:44
+***
+ssss||2020-10-28 21:27:46
+***
+||2020-10-28 21:27:57
+***
+fmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnmmmmmmmmmmmmmmmmmmmmm||2020-10-28 21:28:12
+***
+xxxxx|b vbvbbb|2021-1-26 23:55:14
+***
+ |vvvvv|2021-1-26 23:55:20
+***
